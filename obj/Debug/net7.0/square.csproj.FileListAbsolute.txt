@@ -1,0 +1,15 @@
+/Users/dera/Projects/square/square/bin/Debug/net7.0/square
+/Users/dera/Projects/square/square/bin/Debug/net7.0/square.deps.json
+/Users/dera/Projects/square/square/bin/Debug/net7.0/square.runtimeconfig.json
+/Users/dera/Projects/square/square/bin/Debug/net7.0/square.dll
+/Users/dera/Projects/square/square/bin/Debug/net7.0/square.pdb
+/Users/dera/Projects/square/square/obj/Debug/net7.0/square.csproj.AssemblyReference.cache
+/Users/dera/Projects/square/square/obj/Debug/net7.0/square.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dera/Projects/square/square/obj/Debug/net7.0/square.AssemblyInfoInputs.cache
+/Users/dera/Projects/square/square/obj/Debug/net7.0/square.AssemblyInfo.cs
+/Users/dera/Projects/square/square/obj/Debug/net7.0/square.csproj.CoreCompileInputs.cache
+/Users/dera/Projects/square/square/obj/Debug/net7.0/square.dll
+/Users/dera/Projects/square/square/obj/Debug/net7.0/refint/square.dll
+/Users/dera/Projects/square/square/obj/Debug/net7.0/square.pdb
+/Users/dera/Projects/square/square/obj/Debug/net7.0/square.genruntimeconfig.cache
+/Users/dera/Projects/square/square/obj/Debug/net7.0/ref/square.dll
